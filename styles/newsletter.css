@@ -1,0 +1,20 @@
+
+#newsletter{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    background-repeat: no-repeat;
+    /* background-image: url("../Assets/images/Spring_Decor_with_Leaves_PNG_Clip_Art_Image.png"); */
+    background-position: 50% 30%;
+    background-color: #F0FFF0;
+}
+#newsletter h4{
+    font-size: 22 px;
+    font-weight: 700;
+    color:#CD5C5C
+
+}
+#newsletter p{
+    color:#CD5C5C
+}

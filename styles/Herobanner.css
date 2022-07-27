@@ -1,0 +1,44 @@
+
+    #hb1{
+        background-image: url("https://perfectdailygrind.com/wp-content/uploads/2018/05/drinking-tea.jpg");
+        height: 90vh;
+        width: device-width;
+        background-size: cover;
+        background-position: top 25% right 15%;
+        padding: 0 80px; 
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        color:#E3E6F3;
+    }
+    #hb1 h4{
+        padding-bottom:15px;
+    }
+    #hb1 h4{
+        color:#E3E6F3;
+    }
+    #hb1 h2{
+        color:#E3E6F3;
+    }
+    #hb1 button{ 
+        background-color: #E3E6F3;
+        border: none;
+        color: #088178;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-family: "Brush Script MT", cursive;
+        border-radius: 8px;
+    } 
+    #hb1 button:hover{
+        background-color: #088178;
+        color: #E3E6F3;
+        border: 2px solid #088178;
+        transition: 0.4s ease;
+
+    }
